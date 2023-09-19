@@ -80,8 +80,11 @@ body {
 }
 
 #theme-toggle {
+    width: 7%;
+    height: 3%;
     position: absolute;
     top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-size: 0.9vw;
 }
