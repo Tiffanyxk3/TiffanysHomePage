@@ -1,5 +1,6 @@
 # Tiffany's Personal Home Page
 This project contains my personal home page demonstrating my basic information, the skills I'm mastered with, my education and courses I've taken, projects I've done, and my hobbies.
+[My Design](./docs/Design.pdf)
 
 ## Table of Contents
 
@@ -16,7 +17,7 @@ The objective of building this home page is to showcase myself, to share my valu
 
 My home page covers a diverse range of target audiences, including my current colleagues and peers, my potential recruiters and employers, and communities that share a same hobby. I will be developing this webpage further in the future to meet both my short-term and long-term goals. <br>
 
-Video demo: TODO<br>
+[Video demo](./docs/demo.mp4)<br>
 ![Screenshot of my home page](./assets/Screenshot.png)
 
 ## <a name="author"></a> Author
