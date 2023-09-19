@@ -34,10 +34,10 @@ body {
 .col-md-6.col-sm-12 {
   font-size: 3.3vw;
   color: rgb(72, 43, 55);
-
 }
 
-.tech-pic img, .soft-pic  img {
+.tech-pic img,
+.soft-pic img {
   width: 15%;
   margin-top: 30%;
 }
@@ -56,12 +56,10 @@ body {
   font-size: 2vw;
   font-weight: bold;
   color: rgb(72, 43, 55);
-  /* position: absolute; */
-  /* left: 50%; */
-  /* transform: translate(-50%, -50%); */
 }
 
-.tech-content, .soft-content {
+.tech-content,
+.soft-content {
   margin-top: 4%;
 }
 

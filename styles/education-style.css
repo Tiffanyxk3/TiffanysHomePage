@@ -34,10 +34,10 @@ body {
 .col-md-6.col-sm-12 {
   font-size: 3.3vw;
   color: rgb(72, 43, 55);
-
 }
 
-.school-pic img, .course-pic  img {
+.school-pic img,
+.course-pic img {
   width: 20%;
   margin-top: 28%;
 }
@@ -58,7 +58,8 @@ body {
   color: rgb(72, 43, 55);
 }
 
-.school-content, .course-content {
+.school-content,
+.course-content {
   margin-top: 4%;
 }
 
