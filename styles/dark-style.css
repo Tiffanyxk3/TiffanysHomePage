@@ -1,0 +1,87 @@
+:root {
+    --bg-color: #333;
+    --text-color: #fff;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+* {
+    font-family: "Gill Sans", sans-serif;
+}
+  
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+  
+.container img {
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+    filter: brightness(50%);
+}
+  
+.centered h1 {
+    font-size: 4vw;
+    color: rgb(245, 209, 221);
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centered .contents nav a:nth-child(1) {
+    font-size: 2vw;
+    color: rgb(184, 143, 157);
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.centered .contents nav a:nth-child(2) {
+    font-size: 2vw;
+    color: rgb(184, 143, 157);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.centered .contents nav a:nth-child(3) {
+    font-size: 2vw;
+    color: rgb(184, 143, 157);
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.centered .contents nav a:nth-child(4) {
+    font-size: 2vw;
+    color: rgb(184, 143, 157);
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.centered .contents nav a:nth-child(5) {
+    font-size: 2vw;
+    color: rgb(184, 143, 157);
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+#theme-toggle {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,44 @@
+:root {
+    --bg-color: rgb(254, 243, 247);
+    --text-color: #fff;
+    height: 100%;
+}
+
+body {
+    background-color: var(--bg-color);
+    /* color: var(--text-color); */
+    /* height: 350%; */
+}
+
+* {
+    font-family: "Gill Sans", sans-serif;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.container main {
+    height: 95%;
+}
+
+.container h1 {
+    font-size: 3.3vw;
+    color: rgb(72, 43, 55);
+    top: 3%;
+    left: 50%;
+}
+
+.list p {
+    font-size: 1.3vw;
+    color: rgb(72, 43, 55);
+    margin: 5px 0;
+}
+
+.container footer {
+    font-size: 1vw;
+}
