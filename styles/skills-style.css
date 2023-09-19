@@ -63,10 +63,13 @@ body {
   margin-top: 4%;
 }
 
-.container p {
+.container p,
+.container ul {
   font-size: 1.3vw;
   color: rgb(72, 43, 55);
   margin: 5px 0;
+  list-style: none;
+  padding-left: 0px;
 }
 
 .container footer {
