@@ -1,51 +1,51 @@
 :root {
-    --bg-color: rgb(254, 243, 247);
-    --text-color: #fff;
-    height: 100%;
+  --bg-color: rgb(254, 243, 247);
+  --text-color: #fff;
+  height: 100%;
 }
 
 body {
-    background-color: var(--bg-color);
-    height: 350%;
+  background-color: var(--bg-color);
+  height: 350%;
 }
 
 * {
-    font-family: "Gill Sans", sans-serif;
+  font-family: "Gill Sans", sans-serif;
 }
 
 .container {
-    position: relative;
-    text-align: center;
-    color: white;
-    height: 100%;
-    width: 100%;
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 100%;
+  width: 100%;
 }
 
 .container main {
-    height: 95%;
+  height: 95%;
 }
 
 .container h1 {
-    font-size: 3.3vw;
-    color: rgb(72, 43, 55);
-    top: 30px;
-    left: 50%;
+  font-size: 3.3vw;
+  color: rgb(72, 43, 55);
+  top: 30px;
+  left: 50%;
 }
 
 .container h2 {
-    font-size: 1.8vw;
-    color: rgb(72, 43, 55);
-    margin-top: 6%;
+  font-size: 1.8vw;
+  color: rgb(72, 43, 55);
+  margin-top: 6%;
 }
 .container img {
-    width: 25%;
+  width: 25%;
 }
 .container p {
-    font-size: 1.3vw;
-    color: rgb(72, 43, 55);
-    margin: 5px 0;
+  font-size: 1.3vw;
+  color: rgb(72, 43, 55);
+  margin: 5px 0;
 }
 
 .container footer {
-    font-size: 1vw;
+  font-size: 1vw;
 }

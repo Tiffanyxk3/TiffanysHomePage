@@ -1,48 +1,48 @@
 :root {
-    --bg-color: rgb(254, 243, 247);
-    --text-color: #fff;
+  --bg-color: rgb(254, 243, 247);
+  --text-color: #fff;
 }
 
 body {
-    background-color: var(--bg-color);
+  background-color: var(--bg-color);
 }
 
 * {
-    font-family: "Gill Sans", sans-serif;
+  font-family: "Gill Sans", sans-serif;
 }
 
 .container {
-    position: relative;
-    text-align: center;
-    color: white;
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
 .container h1 {
-    font-size: 3.3vw;
-    color: rgb(72, 43, 55);
-    position: absolute;
-    top: 3%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  font-size: 3.3vw;
+  color: rgb(72, 43, 55);
+  position: absolute;
+  top: 3%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .container img {
-    width: 30%;
-    margin-top: 6%;
+  width: 30%;
+  margin-top: 6%;
 }
 
 .contact p {
-    font-size: 1.3vw;
-    color: rgb(72, 43, 55);
-    margin: 5px 0;
+  font-size: 1.3vw;
+  color: rgb(72, 43, 55);
+  margin: 5px 0;
 }
 
 .intro {
-    font-size: 1.3vw;
-    color: rgb(72, 43, 55);
-    margin: 20px 0;
+  font-size: 1.3vw;
+  color: rgb(72, 43, 55);
+  margin: 20px 0;
 }
 
 .container footer {
-    font-size: 1vw;
+  font-size: 1vw;
 }

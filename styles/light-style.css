@@ -1,90 +1,90 @@
 :root {
-    --bg-color: #fff;
-    --text-color: #333;
+  --bg-color: #fff;
+  --text-color: #333;
 }
 
 body {
-    background-color: var(--bg-color);
-    color: var(--text-color);
+  background-color: var(--bg-color);
+  color: var(--text-color);
 }
 
 * {
-    font-family: "Gill Sans", sans-serif;
+  font-family: "Gill Sans", sans-serif;
 }
 
 .container {
-    position: relative;
-    text-align: center;
-    color: white;
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
 .container img {
-    width: 100%;
-    height: 100%;
-    opacity: 0.3;
-    filter: brightness(50%);
+  width: 100%;
+  height: 100%;
+  opacity: 0.3;
+  filter: brightness(50%);
 }
 
 .centered h1 {
-    font-size: 4vw;
-    color: rgb(189, 89, 131);
-    position: absolute;
-    top: 25%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  font-size: 4vw;
+  color: rgb(189, 89, 131);
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .centered .contents nav a:nth-child(1) {
-    font-size: 2vw;
-    color: rgb(95, 51, 69);
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  font-size: 2vw;
+  color: rgb(95, 51, 69);
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .centered .contents nav a:nth-child(2) {
-    font-size: 2vw;
-    color: rgb(95, 51, 69);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  font-size: 2vw;
+  color: rgb(95, 51, 69);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .centered .contents nav a:nth-child(3) {
-    font-size: 2vw;
-    color: rgb(95, 51, 69);
-    position: absolute;
-    top: 55%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  font-size: 2vw;
+  color: rgb(95, 51, 69);
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .centered .contents nav a:nth-child(4) {
-    font-size: 2vw;
-    color: rgb(95, 51, 69);
-    position: absolute;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  font-size: 2vw;
+  color: rgb(95, 51, 69);
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .centered .contents nav a:nth-child(5) {
-    font-size: 2vw;
-    color: rgb(95, 51, 69);
-    position: absolute;
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  font-size: 2vw;
+  color: rgb(95, 51, 69);
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 #theme-toggle {
-    width: 7%;
-    height: 3%;
-    position: absolute;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 0.9vw;
+  width: 7%;
+  height: 3%;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 0.9vw;
 }
