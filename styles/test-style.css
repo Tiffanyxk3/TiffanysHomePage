@@ -1,0 +1,74 @@
+:root {
+    --bg-color: rgb(254, 243, 247);
+    --text-color: #fff;
+    height: 100%;
+  }
+  
+body {
+    font-family: "Gill Sans", sans-serif;
+    background-color: var(--bg-color);
+    height: 100%;
+    font-weight: 1000;
+}
+  
+* {
+    font-family: "Gill Sans", sans-serif;
+}
+
+.container * {
+    font-family: "Gill Sans", sans-serif;
+}
+  
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+  
+.container main {
+    height: 95%;
+}
+
+.col-md-6.col-sm-12 {
+    font-size: 3.3vw;
+    color: rgb(72, 43, 55);
+
+}
+
+.school-pic img, .course-pic  img {
+    width: 20%;
+    margin-top: 30%;
+}
+
+.container h1 {
+    font-size: 3.3vw;
+    font-weight: bold;
+    color: rgb(72, 43, 55);
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+  
+.container h2 {
+    font-size: 2vw;
+    font-weight: bold;
+    color: rgb(72, 43, 55);
+}
+  
+.school-content, .course-content {
+    margin-top: 4%;
+}
+
+.container p {
+    font-size: 1.3vw;
+    color: rgb(72, 43, 55);
+    margin: 5px 0;
+}
+  
+.container footer {
+    font-size: 1vw;
+}
+  
