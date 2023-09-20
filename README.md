@@ -42,6 +42,8 @@ Opening the webpage shows the main page of my project. The "Switch Theme" button
 * v1.0.0
   * Initial Release
   * Basic components including the main page, the skills page, the education page, the projects page, and the hobbies page
+* v1.0.1
+  * Minor changes
 
 ## <a name="license"></a> License
 
