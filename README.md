@@ -24,7 +24,6 @@ Video demo: https://drive.google.com/file/d/18djQYWhYFykLF9V6_afcTV8s3kADzeJH/vi
 Author: Naiyi (Tiffany) Zhang <br>
 Email: tiffanyxkg@gmail.com <br>
 LinkedIn: www.linkedin.com/in/tiffanyxk <br>
-Webpage: https://tiffanyxk3.github.io/TiffanysHomePage/ <br>
 Class link: https://johnguerra.co/classes/webDevelopment_fall_2023/ <br>
 
 ## <a name="tech"></a> Tech Requirements
@@ -36,6 +35,7 @@ Class link: https://johnguerra.co/classes/webDevelopment_fall_2023/ <br>
 
 ## <a name="usage"></a> Usage
 
+Webpage: https://tiffanyxk3.github.io/TiffanysHomePage/ <br>
 Opening the webpage shows the main page of my project. The "Switch Theme" button allows users to switch between light theme and dark theme. Each sub-page (About Me, My Skills, My Education, My Projects, My Hobbies) is linked to their titles displayed on the main page. By clicking each of the links, the user is brought to each sub-page where specific information about myself is covered. To navigate back to the main page, there is a "Back to Main Page" button at the bottom of each sub-page. 
 
 ## <a name="version"></a> Version History
