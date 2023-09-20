@@ -17,7 +17,7 @@ The objective of building this home page is to showcase myself, to share my valu
 
 My home page covers a diverse range of target audiences, including my current colleagues and peers, my potential recruiters and employers, and communities that share a same hobby. I will be developing this webpage further in the future to meet both my short-term and long-term goals. <br>
 
-[Video demo](./docs/demo.mp4)<br>
+Video demo: https://drive.google.com/file/d/18djQYWhYFykLF9V6_afcTV8s3kADzeJH/view?usp=drive_link<br>
 ![Screenshot of my home page](./assets/Screenshot.png)
 
 ## <a name="author"></a> Author
