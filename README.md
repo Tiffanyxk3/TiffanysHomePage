@@ -1,6 +1,6 @@
 # Tiffany's Personal Home Page
 This project contains my personal home page demonstrating my basic information, the skills I'm mastered with, my education and courses I've taken, projects I've done, and my hobbies.
-[My Design](./docs/Design.pdf)
+[My Design](https://docs.google.com/document/d/1WmwzHbleZo13U4KtU5smuZvgMFQBnfJQWcqHZmsSSko/edit?usp=sharing)
 
 ## Table of Contents
 
